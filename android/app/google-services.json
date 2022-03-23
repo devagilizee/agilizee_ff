@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "151316580295",
+    "project_id": "agilizeeapp",
+    "storage_bucket": "agilizeeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151316580295:android:99cd3bc0ef67a2fd183be2",
+        "android_client_info": {
+          "package_name": "com.flutterflow.appagilizee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151316580295-aih5sg48bkcef0lhe2u1jdql1sb70ugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUIq6yKSV46ZzF4tnIn2UwO4CIQmodLYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151316580295-aih5sg48bkcef0lhe2u1jdql1sb70ugu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151316580295-fmn7n1ubbjkkgm4um5mvb4le2ptifah2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.appagilizee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>151316580295-fmn7n1ubbjkkgm4um5mvb4le2ptifah2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.151316580295-fmn7n1ubbjkkgm4um5mvb4le2ptifah2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnwMIGOfaUmLG3CvonO4Euk6ALon3efWU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>151316580295</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.appagilizee</string>
+	<key>PROJECT_ID</key>
+	<string>agilizeeapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agilizeeapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:151316580295:ios:4d8431d8320c3b83183be2</string>
+</dict>
+</plist>
